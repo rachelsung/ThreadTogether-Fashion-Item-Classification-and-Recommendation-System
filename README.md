@@ -1,1 +1,1 @@
-# ThreadTogether-Fashion-Item-Classification-and-Recommendation-System
+# ThreadTogether Fashion Item Classification and Recommendation System
