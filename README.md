@@ -19,7 +19,7 @@ There are **4 primary objectives**:
 This section describes the available data and the supporting library of attributes. <br>
 A.  Leveraging previously scraped web data, TT product data consist of mainly 2 forms of text(verbatim to reflect actual nature of data):
 
-1. Product descriptions –<em>"People often think of sundresses when temperatures rise, but Zimmermann's floral-print 'Amari'jumpsuit is an equally good alternative. Its ruched sleeveless bodice is designed with tie shoulder straps and a square neckline with shirred trim. Wear the wide-leg cotton style with flat sandals and oversized gold jewelry. "
+1. Product descriptions –<em>"People often think of sundresses when temperatures rise, but Zimmermann's floral-print 'Amari'jumpsuit is an equally good alternative. Its ruched sleeveless bodice is designed with tie shoulder straps and a square neckline with shirred trim. Wear the wide-leg cotton style with flat sandals and oversized gold jewelry. "<em>
 2. Product details –Zip fastening along backComposition: 100% cotton Dry clean Imported This style fits true to size We suggest taking your normal size.
 <br>
 
